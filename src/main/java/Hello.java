@@ -17,5 +17,6 @@ public class Hello {
         System.out.println("pull");
         System.out.println("pull");
         System.out.println("clone");
+        System.out.println("test ssh");
     }
 }
